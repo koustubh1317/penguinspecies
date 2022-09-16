@@ -1,5 +1,6 @@
-# penguinspecies
-ML project:- supervised learning 
+# Predicting Penguins species
+#ML project:- supervised learning 
+
 Penguin dataset where we want to predict the species of penguins based on certain feature using appropriate model.
 
 About penguin dataset
